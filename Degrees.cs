@@ -19,5 +19,11 @@ namespace Number_degree
             Console.WriteLine(number * number * number);
             return number * number * number;
         }
+        
+        static double Degree_4(double number)
+        {
+            Console.WriteLine(number * number * number * number);
+            return number * number * number * number;
+        }
     }
 }
